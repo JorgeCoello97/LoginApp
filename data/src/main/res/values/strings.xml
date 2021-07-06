@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_save_user_local">No se ha podido guardar localmente el usuario.</string>
+</resources>

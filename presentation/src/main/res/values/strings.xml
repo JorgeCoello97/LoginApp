@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PruebaInicioSesionFacebook</string>
+    <string name="error_invalid_credentials">Las credenciales no son válidas.Revise sus credenciales e acceso.</string>
+    <string name="error_user_already_exists">El usuario ya existe en el sistema.</string>
+    <string name="error_need_authenticate_again">Se requiere autenticarse de nuevo.</string>
+    <string name="error_user_not_found">No hay ningún usuario registrado con esta cuenta.</string>
+
+    <string name="start_session_to_see_private_area">Inicia sesión para ver tu zona privada.</string>
+    <string name="start_with_mail">Iniciar Sesión con E-mail</string>
+    <string name="start_with_facebook">Continuar con Facebook</string>
+    <string name="create_account">Crear tu cuenta</string>
+    <string name="close_session">Cerrar Sesión</string>
+</resources>

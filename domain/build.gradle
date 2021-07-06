@@ -1,0 +1,14 @@
+apply plugin: 'java-library'
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+
+    //DAGGER 2 -> @Inject
+    api 'com.google.dagger:dagger:2.13'
+
+    //Patron Observer mediante Rx Android
+    implementation 'io.reactivex.rxjava2:rxjava:2.0.2'
+}
+
+sourceCompatibility = "1.7"
+targetCompatibility = "1.7"
